@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-q)t)2@3sc1@+1^^z#y714&d%9*_v-1c-@x6-x3j*u^#_l7(2!p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['muvi-flani-backend.onrender.com']
 
 
 # Application definition
